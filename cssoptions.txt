@@ -15,10 +15,9 @@
   position: relative;
   left:50%;}
 
-{ background-image: url("../images/repeating.png");
-  float: left;}
 
-{ background-image: url("../images/black.jpg"); }
+
+
 
 { min-height: 300px;
   width: 715px;
