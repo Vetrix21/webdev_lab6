@@ -46,7 +46,11 @@ body{
 }
 
 
-#footer{}
+#footer{ 
+    background-color: #777;
+    height: 80px;
+    clear: both;
+}
 
 
 #content-wrapper{ 
@@ -74,10 +78,20 @@ h2 strong{}
 #side-content{}
 
 
-#main-nav{}
+#main-nav{ 
+    background-color: #ccc;<br>
+    color: #333;
+}
 
 
-#main-nav ul{}
+#main-nav ul{ 
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    float: left;
+    position: relative;
+    left:50%;
+}
 
 
 #main-nav ul li{}
