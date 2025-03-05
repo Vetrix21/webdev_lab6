@@ -1,4 +1,4 @@
-body
+body{}
 
 
 #page-wrapper{ 
@@ -26,46 +26,53 @@ body
 }
 
 
-#header a#logo1 img
+#header a#logo1 img{}
 
 
-#header #toplink
+#header #toplink{ 
+    text-decoration: none;
+    position: absolute;
+    top:-34px;
+    right: 10px;
+    color: white;
+    font-size: 1.8em;
+}
 
 
-#footer
+#footer{}
 
 
-#content-wrapper
+#content-wrapper{}
 
 
-#main-content
+#main-content{}
 
 
-h2 strong
+h2 strong{}
 
 
-.image-r
+.image-r{}
 
 
-#side-content
+#side-content{}
 
 
-#main-nav
+#main-nav{}
 
 
-#main-nav ul
+#main-nav ul{}
 
 
-#main-nav ul li
+#main-nav ul li{}
 
 
-#main-nav ul li a
+#main-nav ul li a{}
 
 
-#main-nav ul li a:hover
+#main-nav ul li a:hover{}
 
 
-#center
+#center{}
 
 
-strong
+strong{}
